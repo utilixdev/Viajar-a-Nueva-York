@@ -455,7 +455,7 @@ footer {
     text-align: center;
     
     /* Afegim les propietats de fons directament al footer */
-    background-image: url('Img/footer-bg.webp');
+    background-image: url('footer-bg.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* O scroll si vols que la imatge es mogui amb la pàgina */
