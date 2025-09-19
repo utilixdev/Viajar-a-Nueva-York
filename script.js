@@ -203,9 +203,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const videoSources = [
-        'Videos/NY1.mp4',
-        'Videos/NY2.mp4',
-        'Videos/NY3.mp4'
+        'NY1.mp4',
+        'NY2.mp4',
+        'NY3.mp4'
     ];
     
     let currentVideoIndex = 0;
